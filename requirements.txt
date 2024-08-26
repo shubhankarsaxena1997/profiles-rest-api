@@ -1,0 +1,7 @@
+# latest versions
+django==5.1
+djangorestframework==3.15.0
+
+# course versions
+# django==2.2
+# djangorestframework==3.9.2
